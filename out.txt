@@ -1,0 +1,4 @@
+This is a test input file
+with multiple lines,
+and i'll be attempting to copy this file to another file
+using the magic of java
