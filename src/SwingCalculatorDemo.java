@@ -102,7 +102,7 @@ class SwingCalculatorDemo {
         toReset = true;
     }
     public static void main(String[] args){
-        SwingCalculatorDemo scd = new SwingCalculatorDemo();
+        SwingCalculatorDemo swingcd = new SwingCalculatorDemo();
     }
 
 }
